@@ -9,5 +9,5 @@
 
 ## Содержание
 
-- [Документация](Testing-PO-Bank/Documents/)
-- [Attachments](Testing-PO-Bank/Screenshots/)
+- [Документация](Projects/Testing-PO-Bank/Documents/)
+- [Attachments](Projects/Testing-PO-Bank/Screenshots/)
