@@ -34,9 +34,8 @@
 28. Python. (Изучение основ. Создание клиент серверного приложения)
     
 - **Технологии**: Postman, Git, Git Bash, Charles, Fiddler, XCode, Android Studio, Командная строка (terminal) Linux, SQL, Postgres, Redis, Jmeter.
-- **Ссылка на репозиторий**: [GitHub](ссылка_на_репозиторий)
 
 ## Содержание
 
-- [Документация](Testing-PO-Ksendzov/Documents/)
-- [Скриншоты](Testing-PO-Ksendzov/Screenshots/)
+- [Документация](Documents/)
+- [Скриншоты](Screenshots/)
