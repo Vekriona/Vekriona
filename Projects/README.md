@@ -7,6 +7,7 @@
 - [Project1 - Курс "Тестирование ПО"](Project1/README.md)
 - [Project2 - Курс "Тестирование ПО" от Вадима Ксендзова](Project2/README.md)
 - [Project3 - Стажировка в IT-company Lad](Project3/README.md)
+- [Project4 - Переподготовка в Университете Иннополис - Тестирование ПО](Project3/README.md)
 
 Каждый проект имеет свой собственный README файл с более подробной информацией.
 
