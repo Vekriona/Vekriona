@@ -6,7 +6,7 @@
 
 - **Цель проекта**: Обучение и повышение компетенции.
 - **Технологии**: Devtools, Postman, SoupUI, Android Studio, JMeter
-- **Ссылка на репозиторий**: [GitHub](Projects/Testing-PO-Bank)
+- **Ссылка на репозиторий**: [GitHub](/Testing-PO-Bank)
 
 ## Содержание
 
