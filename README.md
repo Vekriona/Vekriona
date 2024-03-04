@@ -1,5 +1,5 @@
 # Михайловская Ирина
-([Резюме](https://drive.google.com/file/d/1ERMn_zGa_3jJsmRMWeBN6RGo197TzjpI/view?usp=drive_link))
+ ➡️ ➡️ ➡️[Резюме](https://drive.google.com/file/d/1ERMn_zGa_3jJsmRMWeBN6RGo197TzjpI/view?usp=drive_link) ⬅️ ⬅️ ⬅️
 ## Manual QA Engineer
 
 ![Тут должна быть красивая картинка](shot_231118_141127.jpg)
