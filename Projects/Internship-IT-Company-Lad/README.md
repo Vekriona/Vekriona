@@ -16,9 +16,9 @@
 - Работа по Agile-методологии (Scrum).
 
 - **Технологии**: Swagger, Postman, Tuskr, YouTrack, devTools, DBeaver, Figma, PixelPerfect.
-- **Ссылка на репозиторий**: [GitHub](ссылка_на_репозиторий)
+
 
 ## Содержание
 
-- [Документация](Internship-IT-Company-Lad/Documents/)
-- [Скриншоты](Internship-IT-Company-Lad/Screenshots/)
+- [Документация](Documents/)
+- [Скриншоты](Screenshots/)
