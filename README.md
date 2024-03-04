@@ -1,6 +1,8 @@
 # Михайловская Ирина
 ## Manual QA Engineer
 
+![Тут должна быть красивая картинка]([Screenshots/screenshot1.png](https://github.com/Vekriona/vekriona/blob/main/shot_231118_141127.jpg?raw=true))
+
 ### Опыт работы
 - **Emotion Factory LTD**
   - Quality Assurance Engineer
