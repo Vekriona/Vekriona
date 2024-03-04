@@ -45,4 +45,4 @@
 ### Связаться со мной
 - 📧 Email: vekriona7@gmail.com
 - 💌 Telegram: https://t.me/Vekriona
-- 💼 LinkedIn: [linkedin.com/in/yourprofile/](https://www.linkedin.com/in/vekriona/)
+- 💼 LinkedIn: [linkedin.com/in/vekriona](https://www.linkedin.com/in/vekriona/)
