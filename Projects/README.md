@@ -5,9 +5,9 @@
 ## Содержание
 
 - [Курс "Тестирование ПО - банк"](Testing-PO-Bank/README.md)
-- [Курс "Тестирование ПО" от Вадима Ксендзова](Projects/Testing-PO-Ksendzov/README.md)
-- [Стажировка в IT-company Lad](Projects/Internship-IT-Company-Lad/README.md)
-- [Переподготовка в Университете Иннополис - Тестирование ПО](Projects/Innopolis-Test-Training/README.md)
+- [Курс "Тестирование ПО" от Вадима Ксендзова](Testing-PO-Ksendzov/README.md)
+- [Стажировка в IT-company Lad](Internship-IT-Company-Lad/README.md)
+- [Переподготовка в Университете Иннополис - Тестирование ПО](Innopolis-Test-Training/README.md)
 
 Каждый проект имеет свой собственный README файл с более подробной информацией.
 
