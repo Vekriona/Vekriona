@@ -20,4 +20,4 @@
 
 ## Содержание
 
-- [Тестовое на отбор (чек лист + баг репорты + тест кейсы + таблица принятия решений + отчет о тестировании]((https://docs.google.com/spreadsheets/d/1Ibus_Lly0fsHwOsenqGN_ApcLoXWnvq83v-5VqGKFYU/edit#gid=1264118686)https://docs.google.com/spreadsheets/d/1Ibus_Lly0fsHwOsenqGN_ApcLoXWnvq83v-5VqGKFYU/edit#gid=1264118686)
+- [Тестовое на отбор (чек лист + баг репорты + тест кейсы + таблица принятия решений + отчет о тестировании](https://docs.google.com/spreadsheets/d/1Ibus_Lly0fsHwOsenqGN_ApcLoXWnvq83v-5VqGKFYU/edit#gid=1264118686)
