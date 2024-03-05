@@ -5,8 +5,6 @@
 ![Тут должна быть красивая картинка](shot_231118_141127.jpg)
 
 ### Опыт работы
-<details>
-<summary>Опыт работы</summary>
 
 <details>
 <summary>Emotion Factory LTD</summary>
@@ -50,6 +48,7 @@
 </details>
 
 </details>
+
 ### Проекты
 
 - [Курс "Тестирование ПО - банк"](Projects/Testing-PO-Bank/README.md)
