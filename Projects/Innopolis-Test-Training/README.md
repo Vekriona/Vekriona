@@ -3,7 +3,9 @@
 Прошла переподготовку в [Университете Иннополис](https://stc.innopolis.university/) по специальности [Тестирование ПО](https://stc.innopolis.university/testirovshik-po)
 - Основы тестирования ПО| Сен 2022 - Янв 2023
 - [Диплом о профессиональной переподготовке 22Д148-03076 от 09.12.2022](https://drive.google.com/file/d/1FNvciNzPpWo7vrhcjW_3akCvGUYNF1I5/view)
-
+- [Университет Иннополис Промежуточная аттестация #1](https://docs.google.com/document/d/1Qrz5EOJFGt8DIc8NquJDj1r72r7BLFhuLQOGRT-pNAk/edit)
+- [Университет Иннополис Промежуточная аттестация #2](https://docs.google.com/document/d/1EAp39mXig-3WQq6udqN-IyljeazBgMElfxiTBtboyAc/edit)
+- [Университет Иннополис Итоговая аттестация](https://docs.google.com/document/d/1uTHSlQDZzlo1JgvuP2uDJylHymY8AZILr7KLrcSl-0E/edit)
 ## Описание
 
 - **Изучила основы программирования на JAVA**:
