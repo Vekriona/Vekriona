@@ -5,8 +5,6 @@
 ![Тут должна быть красивая картинка](shot_231118_141127.jpg)
 
 ### Опыт работы
-<details>
-<summary>Опыт работы</summary>
 - **Emotion Factory LTD**
   - Quality Assurance Engineer
   - Июль 2023 - настоящее время
