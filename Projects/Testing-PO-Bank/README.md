@@ -22,6 +22,7 @@
 - Нефункциональное тестирование
 - [Чек лист+ Баг репорты](https://docs.google.com/spreadsheets/d/17g_UoM9pISOTEM9nd1lk6TT2nnw-8ULE2nmxYCaTK94/edit#gid=1604013869)
 - [Статистика использования браузеров](https://docs.google.com/document/d/1scFLoM5sSILjR1J1o9dZC0otVAgHrEA4FGSjSsypUFc/edit)
+- [Кроссбраузерное тестирование + Jmetr](https://docs.google.com/document/d/1xqbJHnSE-q8Rdeh0shhnRViE_KlJIy1gUN2Ji5JQs0Q/edit)
 - API Тестирование
 - [Дз по POSTMAN + коллекция](https://docs.google.com/document/d/12PK71_m90JvuqOPw9fiNQyjXEBOCoLbTf-DZyZhU5Z0/edit)
 - [POSTMAN + SOAPUI (Pro уровень) + коллекция](https://docs.google.com/document/d/1GLLBZujwA-WJinWxYpln8_wlgZpwLBJCwDvV5goTULs/edit)
