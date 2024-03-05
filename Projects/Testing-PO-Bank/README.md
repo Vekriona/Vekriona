@@ -9,12 +9,12 @@
 
 ## Содержание
 
-Роль QA в процессе разработки ПО 
-Принципы тестирования. Виды тестирования 
-Тестовая документация:
+- Роль QA в процессе разработки ПО 
+- Принципы тестирования. Виды тестирования 
+- Тестовая документация:
 - [Тест план](https://docs.google.com/document/d/1ibQriakJQmyZGfV2jebcQPUoRob62V9yqKzODeIiPSc/edit?usp=drive_link)
 - [Тестирование Требований](https://docs.google.com/document/d/1aGnhVbPwWto6gGx-kpmsOX4ouZWHkuA1nX3_YhKJ090/edit?usp=drive_link)
-Техники тест-дизайна:
+- Техники тест-дизайна:
 - [Эквивалентное разбиение, Анализ граничных значений, Таблицы принятия решений, диаграмма состояний и переходов, PairWise](https://docs.google.com/document/d/1wmLoYAthbrOiok1nx7I_yJVDUG6b3kI2TWT-tPEe0eY/edit)
 - [Таблица принятия решений](https://docs.google.com/spreadsheets/d/1ssf0xivUAI7-r-MMnjD_fR9EwoFLDqj0WfUP_WxTM0o/edit?usp=drive_link)
 - Функциональное тестирование. Пирамида
