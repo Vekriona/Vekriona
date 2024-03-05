@@ -4,7 +4,7 @@
 Авторский курс "Тестирование ПО" от Вадима Ксендзова. Направлен на прокачку практических навыков, а также навыков менторства и soft skills. 
 
 ## Содержание
-1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC. [теория ч.1](https://docs.google.com/document/d/1UaENYpMCJzAkDiIAuVYA3mDpdRF-HFjpMk3JFS0ETsE/edit?usp=drive_link), [Теория, моб ч.2](https://docs.google.com/document/d/1jniZ0fQt1yZJC0UsEfKdnauawe3RXq15gH6IrsV3unw/edit?usp=sharing)
+1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC. [теория ч.1](https://docs.google.com/document/d/1UaENYpMCJzAkDiIAuVYA3mDpdRF-HFjpMk3JFS0ETsE/edit?usp=drive_link), [теория, моб ч.2](https://docs.google.com/document/d/1jniZ0fQt1yZJC0UsEfKdnauawe3RXq15gH6IrsV3unw/edit?usp=sharing)
 3. Что такое клиент-серверная архитектура.
 4. HTTP Методы запросов на сервер.
 5. Коды ответов HTTP сервера.
