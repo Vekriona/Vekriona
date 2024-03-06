@@ -66,4 +66,4 @@
 ### Связаться со мной
 - 📧 Email: vekriona7@gmail.com
 - 💌 Telegram: https://t.me/Vekriona
-- 💼 LinkedIn: [linkedin.com/in/vekriona](https://www.linkedin.com/in/vekriona/) - пишу статьи и посты на профессиональную тематику, с радостью приму вас в контакты для обмена опытом и знаний, welcome
+- 💼 LinkedIn: [linkedin.com/in/vekriona](https://www.linkedin.com/in/vekriona/)
