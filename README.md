@@ -2,7 +2,7 @@
  ➡️ ➡️ ➡️[Резюме](https://drive.google.com/file/d/10PwlMrCVPKjiIbTzpo6905017auVaOTY/view?usp=sharing) ⬅️ ⬅️ ⬅️
 ## Manual QA Engineer
 
-![Тут должна быть красивая картинка](shot_231118_141127.jpg)
+![Тут должна быть красивая картинка](Free Universe Stars Video Gif Animated Zoom Virtual Background (2).gif)
 
 ### Опыт работы (нажмите чтобы раскрыть)
 
